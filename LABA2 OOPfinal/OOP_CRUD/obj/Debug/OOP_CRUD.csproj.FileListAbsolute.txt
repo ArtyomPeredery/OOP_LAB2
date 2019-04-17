@@ -1,0 +1,20 @@
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\bin\Debug\OOP_CRUD.exe.config
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\bin\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\bin\Debug\OOP_CRUD.pdb
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.CRUDForm.resources
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.Properties.Resources.resources
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\OOP_CRUD-lab-2-master\OOP_CRUD\obj\Debug\OOP_CRUD.pdb
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.CRUDForm.resources
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.Properties.Resources.resources
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\obj\Debug\OOP_CRUD.pdb
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\bin\Debug\OOP_CRUD.exe.config
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\bin\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\LABA2 OOP\OOP_CRUD\bin\Debug\OOP_CRUD.pdb

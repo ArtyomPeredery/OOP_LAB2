@@ -1,0 +1,9 @@
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\bin\Debug\OOP_CRUD.exe.config
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\bin\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\bin\Debug\OOP_CRUD.pdb
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP2.CRUDForm.resources
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP_CRUD.Properties.Resources.resources
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP2.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP_CRUD.exe
+C:\Users\Artem\Desktop\LABA2 OOPfinal\OOP_CRUD\obj\Debug\OOP_CRUD.pdb
