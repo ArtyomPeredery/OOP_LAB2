@@ -1,42 +1,49 @@
-﻿using System.ComponentModel;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOP2
 {
     [DisplayName("Транспорт")]
+    [Serializable]
     public class Vehicle
     {
-        public string modelName;
-        public float weight;
-        public string material;
-        public int durability;
+        public string ModelName { get; set;}
+        public float Weight { get; set; }
+        public string Material { get; set; }
+        public int Durability { get; set; }
        
 
         public Vehicle()
         {
-            modelName = "undefined";
-            weight = 0;
-            material = "test";
-            durability = 0;
-            
+            ModelName = "undefined";
+            Weight = 0;
+            Material = "test";
+            Durability = 0;
+           
         }
 
         public override string ToString()
         {
-            return modelName;
+            return ModelName;
             //return base.ToString();
         }
     }
 
     [DisplayName("Топливо")]
+    [Serializable]
     public class Fuel
     {
+        public float Octane { get; set; }
         public string name;
-        public float octane;
 
         public Fuel()
         {
             name = "undefined";
-            octane = 0;
+            Octane = 0;
         }
 
         public override string ToString()
@@ -46,146 +53,142 @@ namespace OOP2
     }
 
     [DisplayName("Бензин")]
+    [Serializable]
     public class Gasoline : Fuel
     {
-        public int octaneNum;
-        public int Price;
+        public string Name { get; set; }
+        public int OctaneNum { get; set; }
+        public int Price { get; set; }
 
         public Gasoline()
         {
-            octaneNum = 92;
-            Price = 2;
-        }
-    }
-
-    [DisplayName("Дизель")]
-    public class Diesel : Fuel
-    {
-        public float density;
-        public int Price;
-
-        public Diesel()
-        {
-            density = 0;
+            Name = "undefined";
+            OctaneNum = 0;
             Price = 0;
         }
 
         public override string ToString()
         {
-            return density.ToString();
+            return Name;
         }
     }
 
-    [DisplayName("Механические ТС")]
-    public class MotorVehicle : Vehicle
+    [DisplayName("Дизель")]
+    [Serializable]
+    public class Diesel : Fuel
     {
-        public int power;
-        [Description("Aggregation")]
-        public Fuel fuel = null;
-        public int tanksize;
-        public int maxspeed;
-        public float acceleration;
+        public float Octanenum { get; set; }
+        public int Price { get; set; }
 
-        public MotorVehicle()
+        public Diesel()
         {
-            power = 0;
-            tanksize = 0;
-            maxspeed = 0;
-            acceleration = 0;
-        }
-    }
-
-    public enum PurposeType {None =  0, Passenger = 1, Cargo, Commercial, Public};
-
-    [DisplayName("ТС приводимое мускульной силой")]
-    public class MechanicVehicle : Vehicle
-    {
-        public int Weight;
-        public int length;
-        public PurposeType purposeType;
-
-        public MechanicVehicle()
-        {
-            Weight = 0;
-            length = 0;
-            purposeType = PurposeType.None;
-        }
-    }
-
-    [DisplayName("Лесопедик")]
-    public class Bicycle : MechanicVehicle
-    {
-        public int wheelsize;
-        public int framestiffness;
-        public int countofgears;
-
-        public Bicycle()
-        {
-            wheelsize = 0;
-            framestiffness = 0;
-            countofgears = 0;
-        }
-    }
-
-    [DisplayName("Легковые автомобили")]
-    public class LightVehicle : MotorVehicle
-    {
-        public int RangeReserve;
-        public bool isAutomatic;
-        public float enginecapasity;
-        public int yearsOld;
-
-        public LightVehicle()
-        {
-            RangeReserve = 0;
-            isAutomatic = false;
-            enginecapasity = 0;
-            yearsOld = 0;
-        }
-
-    }
-
-   /* public enum AimType { None = 0, Laser, Collimator, Optic, Holographic };
-
-    [DisplayName("Прицел")]
-    public class Gunsight
-    {
-        public AimType aimType;
-        public int zoom;
-
-        public Gunsight()
-        {
-            aimType = AimType.None;
-            zoom = 0;
+            Octanenum = 0;
+            Price = 0;
         }
 
         public override string ToString()
         {
-            return aimType.ToString() + " Gunsight";
+            return Octanenum.ToString();
         }
     }
-    */
-    [DisplayName("Пассажирский автомобиль")]
-    public class PassengerCar : LightVehicle
+
+    [DisplayName("Механические ТС")]
+    [Serializable]
+    public class MotorVehicle : Vehicle
     {
-
-     
-        public bool OnTheRun;
+        public int power { get; set; }
         [Description("Aggregation")]
-      //  public Gunsight gunsight = null;
+        public Fuel fuel { get; set; }
+        public int tankSize { get; set; }
+        public int Maxspeed { get; set; }
+        public int acceleration { get; set; }
 
-        public PassengerCar()
+        public MotorVehicle()
         {
-            OnTheRun = true;
+            power = 0;
+            tankSize = 0;
+            Maxspeed = 0;
+            acceleration = 0;
         }
     }
 
-    public enum EngineType{Carburator = 0,Injector = 1, Turbo, Atmo};
+    public enum PurposeType { None = 0, Passenger = 1, Cargo, Commercial, Public };
+
+    [DisplayName("ТС приводимое мускульной силой")]
+    [Serializable]
+    public class MechanicVehicle : Vehicle
+    {
+        public int weight { get; set; }
+        public int length { get; set; }
+        public PurposeType Purposetype { get; set; }
+
+        public MechanicVehicle()
+        {
+            weight = 0;
+            length = 0;
+            Purposetype = PurposeType.None;
+        }
+    }
+
+    [DisplayName("Велосипед")]
+    [Serializable]
+    public class Bicycle : MechanicVehicle
+    {
+        public int wheelsize { get; set; }
+        public int frameStiffness { get; set; }
+        public int Gears { get; set; }
+
+        public Bicycle()
+        {
+            wheelsize = 0;
+            frameStiffness = 0;
+            Gears = 0;
+        }
+    }
+
+    [DisplayName("Легковые автомобили")]
+    [Serializable]
+    public class LightVehicle : MotorVehicle
+    {
+        public int RangeReserve { get; set; }
+        public bool IsAutomatic { get; set; }
+        public float EngineCapasity { get; set; }
+        public int Old { get; set; }
+
+        public LightVehicle()
+        {
+            RangeReserve = 0;
+            IsAutomatic = false;
+            EngineCapasity = 0;
+            Old = 0;
+        }
+
+    }
+
+
+
+
+
+    [DisplayName("Пассажирный автомобиль")]
+    [Serializable]
+    public class PassengerCar : LightVehicle
+    {       
+        public bool OnTheRun { get; set; }
+        [Description("Aggregation")]
+       
+        public PassengerCar()
+        {                     
+            OnTheRun = false;
+        }
+    }
+
+    public enum EngineType { Carburator = 0, Injector = 1, Turbo, Atmo };
 
     [DisplayName("Тяжеловесные ТС")]
+    [Serializable]
     public class HeavyVehicle : MotorVehicle
     {
-        public EngineType enginetype;
+        public EngineType enginetype { get; set; }
 
         public HeavyVehicle()
         {
@@ -194,30 +197,33 @@ namespace OOP2
     }
 
     [DisplayName("Грузовик")]
+    [Serializable]
     public class Truck : HeavyVehicle
     {
-        public string name;
-        public int Lenght;
+        public string Name { get; set; }
+        public int Length { get; set; }
 
         public Truck()
         {
-            name = " ";
-            Lenght = 0;
+            Name = " ";
+            Length = 0;
         }
     }
 
     [DisplayName("Автобус")]
+    [Serializable]
     public class Bus : HeavyVehicle
     {
-        public int countofpassenger;
-        [Description("Aggregation")]
-      //  public Gunsight gunsight = null;
-        public string triggerType;
+        public string Class { get; set; }
+        [Description("Class")]
+       
+        public string GearBox { get; set; }
 
         public Bus()
         {
-            countofpassenger = 1;
-            triggerType = " ";
+           
+            Class = " ";
+            GearBox = " ";
         }
     }
 
