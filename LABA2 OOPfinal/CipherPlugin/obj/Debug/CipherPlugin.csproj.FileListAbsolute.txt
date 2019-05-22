@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\bin\Debug\CipherPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\bin\Debug\CipherPlugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\bin\Debug\Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\bin\Debug\Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\obj\Debug\CipherPlugin.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\obj\Debug\CipherPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\obj\Debug\CipherPlugin.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\obj\Debug\CipherPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\CipherPlugin\obj\Debug\CipherPlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\bin\Debug\CipherPlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\bin\Debug\CipherPlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\bin\Debug\Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\bin\Debug\Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\obj\Debug\CipherPlugin.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\obj\Debug\CipherPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\obj\Debug\CipherPlugin.csproj.CopyComplete
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\obj\Debug\CipherPlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\CipherPlugin\obj\Debug\CipherPlugin.pdb

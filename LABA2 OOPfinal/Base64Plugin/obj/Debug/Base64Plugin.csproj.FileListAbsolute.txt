@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\bin\Debug\Base64Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\bin\Debug\Base64Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\bin\Debug\Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\bin\Debug\Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\obj\Debug\Base64Plugin.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\obj\Debug\Base64Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\obj\Debug\Base64Plugin.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\obj\Debug\Base64Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\Base64Plugin\obj\Debug\Base64Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\bin\Debug\Base64Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\bin\Debug\Base64Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\bin\Debug\Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\bin\Debug\Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\obj\Debug\Base64Plugin.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\obj\Debug\Base64Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\obj\Debug\Base64Plugin.csproj.CopyComplete
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\obj\Debug\Base64Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\Base64Plugin\obj\Debug\Base64Plugin.pdb

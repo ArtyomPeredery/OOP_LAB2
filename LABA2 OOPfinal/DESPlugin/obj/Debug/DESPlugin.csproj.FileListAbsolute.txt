@@ -1,0 +1,9 @@
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\obj\Debug\DESPlugin.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\obj\Debug\DESPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\bin\Debug\DESPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\bin\Debug\DESPlugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\bin\Debug\Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\bin\Debug\Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\obj\Debug\DESPlugin.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\obj\Debug\DESPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DESPlugin\obj\Debug\DESPlugin.pdb

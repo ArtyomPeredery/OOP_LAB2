@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\bin\Debug\DeflatePlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\bin\Debug\DeflatePlugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\bin\Debug\Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\bin\Debug\Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\bin\Debug\DeflatePlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\bin\Debug\DeflatePlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\bin\Debug\Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\bin\Debug\Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.csproj.CopyComplete
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\DeflatePlugin\obj\Debug\DeflatePlugin.pdb

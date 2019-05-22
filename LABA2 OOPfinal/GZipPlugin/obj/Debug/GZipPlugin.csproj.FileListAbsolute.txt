@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\bin\Debug\GZipPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\bin\Debug\GZipPlugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\bin\Debug\Plugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\bin\Debug\Plugin.pdb
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\obj\Debug\GZipPlugin.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\obj\Debug\GZipPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\obj\Debug\GZipPlugin.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\obj\Debug\GZipPlugin.dll
+C:\Users\Пользователь\Desktop\ООП\4 лаба новая\lab2\GZipPlugin\obj\Debug\GZipPlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\bin\Debug\GZipPlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\bin\Debug\GZipPlugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\bin\Debug\Plugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\bin\Debug\Plugin.pdb
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\obj\Debug\GZipPlugin.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\obj\Debug\GZipPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\obj\Debug\GZipPlugin.csproj.CopyComplete
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\obj\Debug\GZipPlugin.dll
+C:\Users\Artem\Desktop\ООП\larisas oop\lab2\GZipPlugin\obj\Debug\GZipPlugin.pdb
