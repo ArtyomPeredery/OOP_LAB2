@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -18,14 +18,15 @@ namespace OOP2
                 typeof(PassengerCar),
                 typeof(Bus),
                 typeof(Truck),
-                typeof(Bicycle),                
+                typeof(Bicycle),               
                 typeof(Diesel),
                 typeof(Gasoline),
             }; 
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CRUDForm(types, new CRUDHelper()));
+            Application.Run(new CRUDForm(types, new Initializator()));
         }
     }
 }
+
